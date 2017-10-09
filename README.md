@@ -1,4 +1,6 @@
 # `<video>` and `<audio>` made easy. 
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fmediaelement.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fmediaelement?ref=badge_shield)
+
 
 One file. Any browser. Same UI.
 
@@ -108,3 +110,7 @@ new MediaElement(v, {success: function(media) {
 ```
 You can use this as a standalone library if you wish, or just stick with the full MediaElementPlayer.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fmediaelement.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fmediaelement?ref=badge_large)
